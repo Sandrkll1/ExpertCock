@@ -1,0 +1,13 @@
+{
+  "WIDTH": 800,
+  "HEIGHT": 600,
+  "FPS": 30,
+  "SPRITE_WIDTH": 69,
+  "SPRITE_HEIGHT": 72,
+  "HERO_WIDTH": 90,
+  "HERO_HEIGHT": 100,
+  "FENCE_WIDTH": 90,
+  "FENCE_HEIGHT": 70,
+  "SPEED": 10,
+  "FONT": ".\\sources\\font\\BitterPro-Italic.ttf"
+}

@@ -1,0 +1,18 @@
+{
+  "icon": "\\sources\\icon.png",
+  "preview": "\\sources\\preview\\",
+  "background path": "\\sources\\backgrounds\\",
+  "cock path": "\\sources\\cock\\",
+  "cock ready path": "\\sources\\cock\\ready\\",
+  "cock peck path": "\\sources\\cock\\peck\\",
+  "hen path": "\\sources\\hen\\",
+  "egg path": "\\sources\\egg\\",
+  "fence path": "\\sources\\fence\\",
+  "grain": "\\sources\\grain\\",
+  "music": "\\sources\\music\\El Azhar - El Djihad.mp3",
+  "cock heat sound": "\\sources\\music\\sounds\\cock_heat.mp3",
+  "egg heat": "\\sources\\music\\sounds\\egg.mp3",
+  "fence heat": "\\sources\\music\\sounds\\fence.wav",
+  "cock shoot": "\\sources\\music\\sounds\\shoot.mp3",
+  "jump": "\\sources\\music\\sounds\\jump.mp3"
+}
